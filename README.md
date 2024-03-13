@@ -95,8 +95,10 @@ Before running this project, make sure you have the following prerequisites inst
 
 3. Run the program:
     ```sh
-    npm install (individually run this command in both frontend and backend to install project dependencies)
-    npm run dev (individually run this command in both frontend and backend to run both projects)
+    npm install 
+    (individually run this command in both frontend and backend to install project dependencies)
+    npm run dev 
+    (individually run this command in both frontend and backend to run both projects)
 
 
 ## 👥 Author <a name="authors"></a>
